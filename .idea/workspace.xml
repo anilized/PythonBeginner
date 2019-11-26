@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a72d39ea-36a6-4b46-b757-fe8afcca55aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Functional Programming/compex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functional Programming/comprehensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -195,7 +194,7 @@
       <workItem from="1574596548948" duration="13769000" />
       <workItem from="1574701881550" duration="2900000" />
       <workItem from="1574718670311" duration="6649000" />
-      <workItem from="1574770920566" duration="1637000" />
+      <workItem from="1574770920566" duration="2158000" />
     </task>
     <servers />
   </component>
